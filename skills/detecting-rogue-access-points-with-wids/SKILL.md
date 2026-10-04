@@ -23,7 +23,7 @@ tags:
 - kismet
 - threat-detection
 version: "1.0"
-author: Drivoid
+author: paultdriver-Drivoid
 license: Apache-2.0
 nist_csf:
 - DE.CM-01
